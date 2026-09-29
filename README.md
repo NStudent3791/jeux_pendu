@@ -16,3 +16,5 @@ Ici nous avons la première version, ou le jeu se joue uniquement dans la consol
 
 Utilisation IA:
 Créer un fichier txt avec la liste des mots sans majuscule ni acccent.
+
+/test
